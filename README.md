@@ -1,6 +1,23 @@
- Hi, I’m Mirza Waqas. 
- I’m interested in Shopify Development.
- I’m currently learning Remix Framework and Java Script React.
- Contect me at "mirzawqs4545@gmail.com".
+👋 Hi, I’m Mirza Waqas
+I'm a Shopify App Developer with experience in building public and custom Shopify apps using Remix.js, React, and Shopify Polaris. I also have 3 months of hands-on experience with Laravel for backend development.
 
-MirzaWaqas4545/MirzaWaqas4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
+Build scalable Shopify public and custom apps
+
+Work with Remix.js and Polaris for clean, performant UIs
+
+Integrate Laravel to handle robust backend logic and APIs
+
+Experiment with theme app extensions using Liquid and Vanilla JS
+
+🧠 What I’m Learning
+Advanced Shopify APIs and billing models
+
+Full-stack app architecture combining Laravel (backend) and Remix (frontend)
+
+Building production-ready Shopify apps for the Shopify App Store
+
+📫 Contact Me
+📧 mirzawqs4545@gmail.com
+🔗 LinkedIn (optional)
+📍 Based in Pakistan
