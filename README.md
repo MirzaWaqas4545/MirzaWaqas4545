@@ -1,5 +1,5 @@
 👋 Hi, I’m Mirza Waqas
-I'm a Shopify App Developer with experience in building public and custom Shopify apps using Remix.js, React, and Shopify Polaris. I also have 3 months of hands-on experience with Laravel for backend development.
+I'm a Shopify App Developer with experience in building public and custom Shopify apps using Remix.js, React, and Shopify Polaris. I also have 1 years of hands-on experience with Laravel for backend development.
 
 🚀 What I Do
 Build scalable Shopify public and custom apps
